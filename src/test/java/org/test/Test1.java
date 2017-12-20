@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 class Test1 {
 
-	@Tag("tttt fast")
+	@Tag("fast")
 	@Test
 	void test() {
 		assertTrue(1 == 1);
